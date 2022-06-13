@@ -1,0 +1,10 @@
+{
+  "name": "netwerkr",
+  "version": "0.0.1",
+  "description": "",
+  "main": "./netwerkr.json",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/joekarow/system-designs"
+  }
+}
